@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+    {
+    "source": "/api/:path*",
+    "destination": "https://cf22-nysm-be.herokuapp.com/api/:path*"
+    },
+    {
+    "source": "/api/:path*/",
+    "destination": "https://cf22-nysm-be.herokuapp.com/api/:path*/"
+    }
+    ]
+    }
