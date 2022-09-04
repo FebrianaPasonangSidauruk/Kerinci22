@@ -16,7 +16,7 @@ const RekomendasiCard = ({item, handleClick}) => {
                             <div className="pemesananCard">
                                     {/* <button className='btn-pesan'>Pesan</button> */}
                                     <br/><br/>
-                                    <p className="tarif-rekomendasiCard">Harga Rp.{price}</p>
+                                    <p className="tarif-rekomendasiCard">Harga Rp.{price} (Include Tour Guide)</p>
                                     <p className='tanggalCard'>Tanggal : {date} </p>
                                     <input className='input-tglCard' type="date" onChange={e=>setDate(e.target.value)} />
                                     {/* <button className='btn-pesan'>Pesan</button> */}

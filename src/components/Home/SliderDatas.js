@@ -17,8 +17,8 @@ const SliderDatas = [
         title: "Kebun Teh Kayu Aro",
         buka:"Buka: Senin - Minggu (06:00 - 17:00 WIB)",
         lokasi:"Lokasi: Kecamatan Kayu Aro, Kabupaten Kerinci",
-        tarif: "Tarif: Rp.5.000,-",
-        price: 5000,
+        tarif: "Tarif: Rp.100.000,- (Include Tour Guide)",
+        price: 100000,
         amount: 1,
         gambar: kayuAro,
         gambar1:kayuaro1,
@@ -31,28 +31,28 @@ const SliderDatas = [
         title: "Danau Kaco",
         buka:"Buka: Senin - Minggu (06:00 - 17:00 WIB)",
         lokasi:"Lokasi: Danau Kaco",
-        tarif: "Tarif: Rp.5.000,-",
-        price: 5000,
+        tarif: "Tarif: Rp.100.000,- (Include Tour Guide)",
+        price: 100000,
         amount: 1,
         gambar: danauKaco,
         gambar1: danaukaco1,
         gambar2: danaukaco2,
         gambar3: danaukaco3,
-        informasi:"penjelasan danau kaco Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs."
+        informasi:"Danau Kaco merupakan danau yang terletak di kabupaten Kerinci, Jambi. Tepatnya di desa Lempur, kecamatan Gunung Raya. Danau ini berada di kawasan Taman Nasional Kerinci Seblat (TNKS) yang merupakan situs warisan UNESCO. Danau kaco memiliki luas sekitar 90 meter persegi dan memiliki kedalaman yang belum diketahui.Danau Kaco dapat mengeluarkan cahaya yang terang, terutama pada saat bulan purnama. Warna air di danau ini adalah cyan atau hijau kebiruan yang sangat jernih dan berkilau di malam hari. Jika wisatawan datang ke Danau Kaco pada saat bulan purnama maka para wisatawan tidak membutuhkan alat bantu penerangan karena air danau dapat mengeluarkan cahaya yang cukup terang. Jika dilihat dari kejauhan cahaya yang dipancarkan oleh Danau Kaco akan terlihat seperti lampu yang diarahkan kelangit."
     },
     {
         id: 3,
         title: "Gunung Tujuh",
         buka:"Buka: Senin - Minggu (06:00 - 17:00 WIB)",
         lokasi:"Lokasi: Gunung Tujuh",
-        tarif: "Tarif: Rp.5.000,-",
-        price: 5000,
+        tarif: "Tarif: Rp.100.000,- (Include Tour Guide)",
+        price: 100000,
         amount: 1,
         gambar: gunungTujuh,
         gambar1: gunungtujuh1,
         gambar2: gunungtujuh2,
         gambar3: gunungtujuh3,
-        informasi:"penjelasan gunung tujuh Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs."
+        informasi:"Terdiri dari tujuh gunung, yaitu Gunung Hulu Tebo (2.525 mdpl), Gunung Hulu Sangir (2.330 mdpl), Gunung Madura Besi (2.418 mdpl), Gunung Lumut yang ditumbuhi berbagai jenis Lumut (2.350 mdpl), Gunung Selasih (2.230 mdpl), Gunung Jar Panggang (2.469 mdpl), dan Gunung Tujuh itu sendiri (2.735 mdpl). Di beberapa gunung ini terdapat sumber air, yang menyebabkan air di danau ini tidak pernah habis. Dari gerbang pos Taman Nasional Kerinci Seblat, ada dua pilihan jalur pendakian. Jalur pertama, lebih landai namun jarak tempuhnya lebih jauh dan jalur kedua, memiliki tanjakan yang curam namun jaraknya lebih dekat.Kedua jalur itu akan bertemu dan setelah itu para pendaki harus melewati jalur menurun yang cukup tajam yang akan sampai di tepi Danau Gunung Tujuh. Dari situ, para pendaki dapat langsung melihat danau tertinggi di Asia Tenggara itu"
     },
 ];
 
